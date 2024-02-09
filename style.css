@@ -1,0 +1,15 @@
+:root{
+  --primary-clr: hsl(0, 0%, 0%);
+  --gray-100: hsl(0, 0%, 80%);
+  
+  --ff: "Roboto", sans-serif;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background: var(--gray-100);
+}
+
